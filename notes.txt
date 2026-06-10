@@ -1,2 +1,6 @@
-1. JDK, JRE, JVM
+1.  JDK - used to develop java code,   
+    JRE - environment to run the java code;
+    JVM - used to execute the java code
 2. 
+
+
