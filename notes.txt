@@ -1,6 +1,9 @@
 1.  JDK - used to develop java code,   
     JRE - environment to run the java code;
     JVM - used to execute the java code
-2. 
+
+2. Java is a statically typed language. 
+
+3. Java has 8 built-in "primitive" types. int, double, boolean, char
 
 
