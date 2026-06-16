@@ -28,5 +28,24 @@ public class Variables {
         System.out.println(temp);
 
 
+        String name = "Lakshay";
+        System.out.println("Name: " + name);
+
+
+        var naam = "Lakshay Sharma";
+        var umar = 22;
+        umar = 23;
+        System.out.println(naam);
+        System.out.println(umar);
+
+
+        final double PI = 3.14;
+        // PI = 3.22;  // gives error
+        System.out.println(PI);
+
+        boolean lovesCoffee = true;
+
+        System.out.println(name + " is " + age + " and loves coffee: " + lovesCoffee);
     }
 }
+
