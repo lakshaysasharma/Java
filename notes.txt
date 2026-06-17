@@ -4,6 +4,8 @@
 
 2. Java is a statically typed language. 
 
-3. Java has 8 built-in "primitive" types. int, double, boolean, char
+3. Java has 8 built-in "primitive" types. int, double, boolean, char.
+
+4. a = b puts b's value into a
 
 
