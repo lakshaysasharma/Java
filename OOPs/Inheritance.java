@@ -8,7 +8,7 @@ class Shape {
 
 class Triangle extends Shape {
     public void area(int length, int height) {
-        System.out.println((1/2) * length * height);
+        System.out.println(0.5 * length * height);
     }
 }
 
