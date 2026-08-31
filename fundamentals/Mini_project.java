@@ -23,6 +23,7 @@ public class Mini_project {
         } while(userNumber > 0);
 
         System.out.println("My number was " + myNumber);
+        sc.close();
 
     }
 }
